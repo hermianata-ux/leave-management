@@ -15,3 +15,4 @@ public class CasualLeavePolicy implements LeavePolicy {
         }
     }
 }
+
